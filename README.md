@@ -1,6 +1,6 @@
 ## Welcome!
 
-If you are reading this, you are either one of my professor, a prospective employer, or somehow you ended here.
+If you are reading this, you are either one of my professors, a prospective employer, or somehow you ended here.
 
 So, I want to stress that I started building this GitHub Page during the 2020 pandemic, with almost no knowledge of how this entire thing works. GitHub, CSS, Python, etc.
 
